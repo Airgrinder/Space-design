@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "214c81eed81fb7d3a1874d2321136df6",
+    "revision": "38b7e25bbf85f3a657271ab14b178cda",
     "url": "/Space-design/index.html"
   },
   {
-    "revision": "abc3595d2d2391bc3957",
+    "revision": "5b152bfde56633bcb412",
     "url": "/Space-design/static/css/main.ebe755b4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Space-design/static/js/2.9fe091aa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "abc3595d2d2391bc3957",
-    "url": "/Space-design/static/js/main.e1751c6a.chunk.js"
+    "revision": "5b152bfde56633bcb412",
+    "url": "/Space-design/static/js/main.ddc4a008.chunk.js"
   },
   {
     "revision": "805eb7aeb5ed996e81e1",
