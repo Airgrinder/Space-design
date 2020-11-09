@@ -1,0 +1,10 @@
+.app {
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.App {
+    min-height: 100%;
+}

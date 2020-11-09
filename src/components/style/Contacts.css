@@ -1,0 +1,90 @@
+.contacts {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+}
+
+.contacts-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Kelly Slab;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    display: flex;
+    align-items: center;
+    color: #7E3B3B;
+}
+
+.contacts-content span {
+    font-family: Bellota Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000000;
+}
+
+.contacts-content__title {
+    margin-top: 47px;
+    margin-bottom: 36px;
+    padding-bottom: 6px;
+    border-bottom: 2px solid #7E3B3B;;
+}
+
+.contacts-content__img {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.contacts-content__img img{
+    margin-right: 30px;
+    margin-top: 5px;
+}
+
+.contacts-content__description {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.contacts-content__description-adress {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.contacts-content__description-email, 
+.contacts-content__description-adress,
+.contacts-content__description-callnumber {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contacts-content__worktime {
+    font-family: Kelly Slab;
+    font-size: 26px;
+    line-height: 32px;
+    color: #7E3B3B;
+}
+
+.contacts-content__worktime span {
+    font-family: Bellota Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}

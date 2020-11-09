@@ -1,0 +1,56 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: -50px;
+    flex: 0 0 auto;
+}
+
+.footer-background {
+    display: flex;
+    position: absolute;
+    z-index: 1;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 70px;
+    z-index: 2;
+}
+
+.footer-content__callnumber {
+    margin-left: 150px;
+    font-family: Alatsi;
+    font-size: 20px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+
+.footer-content__callnumber span {
+    color: #B32020;
+}
+
+.footer-content__copyright {
+    font-family: Be Vietnam;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+.footer-content__socialButtons {
+    margin-right: 80px;
+}
+
+.footer-content__socialButtons img {
+    margin-right: 30px;
+    width: 54px;
+    height: 54px;
+}
+
+.footer-content__callnumber img {
+    margin-right: 5px;
+}

@@ -1,0 +1,85 @@
+.about {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+}
+
+.test {
+    width: 1140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 40.62%, #FFFFFF 100%), #6E6D70;
+}
+
+.test2 {
+    margin-top: -29px;
+    background: #FFFFFF;
+    width: 945px;
+    height: 715px;
+    z-index: 1;
+}
+
+.about-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 47px;
+    margin-bottom: 20px;
+    font-family: Kelly Slab;
+    font-size: 26px;
+    color: #7E3B3B;
+}
+
+.about-description {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.about-description__text {
+    width: 380px;
+    font-family: Bellota Text;
+    height: 480px;
+    font-size: 16px;
+}
+
+.about-description__img {
+    margin-top: 25px;
+}
+
+.about-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.about-list__description {
+    display: flex;
+    flex-direction: column;
+    font-family: Kelly Slab;
+    font-size: 26px;
+    line-height: 32px;
+    color: #7E3B3B;
+}
+
+.about-list__description-figure {
+    margin-bottom: 7px;
+}
+
+.about-list__description-reverceFigure {
+    margin-top: 7px;
+    transform: rotate(-180deg);
+}
+
+.about-list__items {
+    margin-top: 24px;
+}
+
+.about-list__items-item {
+    font-family: Bellota Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 25px;
+}

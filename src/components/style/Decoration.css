@@ -1,0 +1,11 @@
+.main-background {
+    margin-top: -279px;
+    width: 1140px;
+    height: 979px;
+    background-image: url(../img/phone1.svg);
+}
+
+.middle-background {
+    margin-top: -210px;
+    height: 230px;
+}

@@ -1,0 +1,14 @@
+html,
+body {
+    margin: 0;
+    height: 100%;
+}
+
+#root {
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}

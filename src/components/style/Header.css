@@ -1,0 +1,235 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    width: 1140px;
+    height: 279px;
+    justify-content: space-between;
+    color: #FFFAFA;
+}
+
+.header-phone {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    z-index: 0;
+}
+
+.header-logo {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    margin-left: 75px;
+    padding-top: 9px;
+    border-top: 3px solid #FFF5F5;
+    margin-top: 58px;
+    z-index: 1;
+}
+
+.header-logo__top {
+    display: flex;
+    flex-direction: row;
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.header-logo__top-img {
+    margin-left: -13px;
+}
+
+.header-logo__bottom {
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    padding-bottom: 9px;
+    border-bottom: 3px solid #FFF5F5;
+}
+
+.header-menu {
+    display: flex;
+    margin-top: 95px;
+    z-index: 1;
+}
+
+.header-menu a {
+    color: #FFFAFA;
+    text-decoration: none;
+    transition: 1s;
+    padding-bottom: 22px;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+}
+
+.header-menu a:hover {
+    transition: 0.2s;
+    color: #B32020;
+    border-bottom: 3px solid #B32020;
+}
+
+.header-menu__about a {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.header-menu__portfolio a {
+    margin-right: 15px;
+}
+
+.header-menu__price a {
+    margin-right: 15px;
+}
+
+.header-menu__contacts a {
+    margin-right: 15px;
+}
+
+.header-feedback {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-right: 75px;
+    margin-top: 41px;
+    z-index: 1;
+}
+
+.header-feedback img {
+    margin-top: 8px;
+}
+
+.header-feedback__top {
+    display: flex;
+}
+
+.header-feedback__top img {
+    width: 16px;
+    height: 16px;
+    margin-right: 8px;
+}
+
+.header-feedback__top-callback {
+    margin-right: 16px;
+}
+
+.header-feedback__top-callback-container {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.header-feedback__top-callback-container a {
+    text-decoration: none;
+    color: #FFFAFA;
+    transition: 1s;
+}
+
+.header-feedback__top-callback-container a:hover {
+    transition: 0.2s;
+    color: #B32020;
+    border-bottom: 3px solid #B32020;
+}
+
+.header-feedback__top-sendMail-container {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.header-feedback__top-sendMail-container a {
+    text-decoration: none;
+    color: #FFFAFA;
+    transition: 1s;
+}
+
+.header-feedback__top-sendMail-container a:hover {
+    transition: 0.2s;
+    color: #B32020;
+    border-bottom: 3px solid #B32020;
+}
+
+.header-feedback__bottom {
+    font-family: Alatsi;
+    font-size: 20px;
+    line-height: 26px;
+    margin-top: 12px;
+    padding-bottom: 22px;
+    border-bottom: 3px solid #FFF5F5;
+}
+
+.header-feedback__bottom span {
+    color: #B22020;
+}
+
+.test4 {
+    display: flex;
+    justify-content: center;
+    width: 1140px;
+    height: 700px;
+    background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(180deg, rgba(255, 255, 255, 0) 91.14%, #FFFFFF 100%), #C4C4C4;
+}
+
+.about-exemplies {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.about-exemplies__title {
+    font-family: Kelly Slab;
+    font-size: 26px;
+    line-height: 32px;
+    color: #7E3B3B;
+    margin-top: 60px;
+    border-bottom: 2px solid #7E3B3B;
+    padding-bottom: 10px;
+    margin-bottom: 52px;
+}
+
+.about-exemplies__line1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 750px;
+    margin-bottom: 22px;
+}
+
+.about-exemplies__line2 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 750px;
+}
+
+.about-exemplies__line2-link {
+    height: 166px;
+    width: 165px;
+    background: #515151;
+}
+
+.about-exemplies__line1-1 {
+    width: 165px;
+    height: 166px;
+}
+
+.about-exemplies__line2-link {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.about-exemplies__line2-link div {
+    margin-bottom: 6px;
+}
