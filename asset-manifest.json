@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Space-design/static/css/main.c8b4ef77.chunk.css",
-    "main.js": "/Space-design/static/js/main.9a3af1c7.chunk.js",
-    "main.js.map": "/Space-design/static/js/main.9a3af1c7.chunk.js.map",
+    "main.css": "/Space-design/static/css/main.49c72ea1.chunk.css",
+    "main.js": "/Space-design/static/js/main.c2683aaa.chunk.js",
+    "main.js.map": "/Space-design/static/js/main.c2683aaa.chunk.js.map",
     "runtime-main.js": "/Space-design/static/js/runtime-main.4b03bb29.js",
     "runtime-main.js.map": "/Space-design/static/js/runtime-main.4b03bb29.js.map",
     "static/js/2.f95c4a7c.chunk.js": "/Space-design/static/js/2.f95c4a7c.chunk.js",
     "static/js/2.f95c4a7c.chunk.js.map": "/Space-design/static/js/2.f95c4a7c.chunk.js.map",
     "index.html": "/Space-design/index.html",
-    "precache-manifest.b397583e55ba9a25cfef22fa32ac4719.js": "/Space-design/precache-manifest.b397583e55ba9a25cfef22fa32ac4719.js",
+    "precache-manifest.b39d01d583310d16a198cefe83b2e851.js": "/Space-design/precache-manifest.b39d01d583310d16a198cefe83b2e851.js",
     "service-worker.js": "/Space-design/service-worker.js",
-    "static/css/main.c8b4ef77.chunk.css.map": "/Space-design/static/css/main.c8b4ef77.chunk.css.map",
+    "static/css/main.49c72ea1.chunk.css.map": "/Space-design/static/css/main.49c72ea1.chunk.css.map",
     "static/js/2.f95c4a7c.chunk.js.LICENSE.txt": "/Space-design/static/js/2.f95c4a7c.chunk.js.LICENSE.txt",
     "static/media/Example1.svg": "/Space-design/static/media/Example1.81af0f2f.svg",
     "static/media/Example2.svg": "/Space-design/static/media/Example2.c57bbe43.svg",
@@ -43,7 +43,7 @@
   "entrypoints": [
     "static/js/runtime-main.4b03bb29.js",
     "static/js/2.f95c4a7c.chunk.js",
-    "static/css/main.c8b4ef77.chunk.css",
-    "static/js/main.9a3af1c7.chunk.js"
+    "static/css/main.49c72ea1.chunk.css",
+    "static/js/main.c2683aaa.chunk.js"
   ]
 }
